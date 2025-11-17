@@ -8,3 +8,5 @@ Zawodnik w kalendarzu tygodniowym będzie miał ułożony plan do zrealizowania 
 Po każdym wykonanym treningu zawodnik uzupełnia założenie trenera o uzyskane parametry treningowe.
 Zapisane dane będą informacją dla trenera o aktualnym stanie zawodnika na podstawie których trener ma możliwość modyfikacji jednostek treningowych (np. ze względu na przemęczenie zawodnika).
 Umieszczanie danych przez zawodników w znacznym stopniu usprawni współpracę, która będzie miała pozytywny wpływ na uzyskiwane wyniki !
+
+link do strony WWWW : 
