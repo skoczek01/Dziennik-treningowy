@@ -1,12 +1,46 @@
-Dziennik treningowy biegaczy
+# Dziennik treningowy biegaczy
 
-Założeniem tego projektu jest usprawnienie kontroli podopiecznych przez trenera.
-Każdy z zawodników posiada swój profil na którym będą znajdowały się informację ogólne (do publicznego wglądu) oraz szczegółowe (tylko dla zawodnika i trenera).
-Do informacji ogólnych zaliczane zostaną : imię, wiek, wzrost, waga, planowane zawody,...
-W przypadku informacji szczegółowych mówimy o : trening do wykonania (założony przez trenera), trening wykonany, dane historyczne z wybranego przedziału czasu,....
-Zawodnik w kalendarzu tygodniowym będzie miał ułożony plan do zrealizowania na dany tydzień.
-Po każdym wykonanym treningu zawodnik uzupełnia założenie trenera o uzyskane parametry treningowe.
-Zapisane dane będą informacją dla trenera o aktualnym stanie zawodnika na podstawie których trener ma możliwość modyfikacji jednostek treningowych (np. ze względu na przemęczenie zawodnika).
-Umieszczanie danych przez zawodników w znacznym stopniu usprawni współpracę, która będzie miała pozytywny wpływ na uzyskiwane wyniki !
+## 🎯 Cel projektu
 
-link do strony WWWW : 
+Założeniem tego projektu jest usprawnienie **kontroli podopiecznych przez trenera**. Aplikacja umożliwia przejrzyste planowanie, raportowanie i analizę treningów biegowych.
+
+## 👤 Profile zawodników
+
+Każdy zawodnik posiada własny profil, który zawiera:
+
+- **Informacje ogólne** (publiczne):
+  - Imię
+  - Wiek
+  - Wzrost
+  - Waga
+  - Planowane zawody
+  - ...
+
+- **Informacje szczegółowe** (dostępne tylko dla zawodnika i trenera):
+  - Trening do wykonania (ustalony przez trenera)
+  - Trening wykonany
+  - Dane historyczne z wybranego przedziału czasu
+  - ...
+
+## 📅 Planowanie i realizacja treningów
+
+Zawodnik widzi w kalendarzu tygodniowym zaplanowane jednostki treningowe. Po każdym wykonanym treningu:
+
+1. Uzupełnia dane o rzeczywiste parametry (tempo, dystans, tętno, itd.).
+2. Porównuje je z założeniami trenera.
+3. Dane trafiają do trenera jako feedback.
+
+## 🤝 Współpraca i analiza
+
+Dzięki regularnemu zapisywaniu danych:
+
+- Trener ma aktualny wgląd w stan zawodnika.
+- Może modyfikować jednostki treningowe (np. przy objawach przemęczenia).
+- Usprawnia się komunikacja i planowanie.
+- Zwiększa się szansa na poprawę wyników sportowych!
+
+---
+
+🔗 **Link do strony WWW**: *[wstaw tutaj link]*
+
+
